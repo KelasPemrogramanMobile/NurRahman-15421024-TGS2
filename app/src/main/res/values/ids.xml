@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="dataNama" type="id">dataNama</item>
+    <item name="dataNpm" type="id">dataNPM</item>
+    <item name="dataHp" type="id">dataHP</item>
+    <item name="dataUser" type="id">values</item>
+    <item name="dataPass" type="id">values</item>
+</resources>
